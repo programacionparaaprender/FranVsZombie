@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=TnxFJDuUjYs&list=PLnesPkAqqVDoNrYQELywNrVWCuLsfM
 2# Curso Unity 2D - Inverse Kinematics - Animation - Animator - Transiciones C#
 17:51
 3# Curso Unity 2D - Rigidbody Collider C# POO
-
+31:32
 
 ### paquetes habilitar 2D IK
 https://forum.unity.com/threads/including-2d-inverse-kinematics-ik-in-the-2d-animation-package.899057/
